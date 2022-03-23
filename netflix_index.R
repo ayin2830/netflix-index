@@ -10,10 +10,6 @@ library("lubridate")
 install.packages('ggplot2')
 library("ggplot2")
 
-
-combined_ds <- inner_join(`2020_exchange_rates`,netflix_data,by=c("Country"))
-View(combined_ds)
-
 US_price <- 13.99
 
 netflix_index <- function(x) {
