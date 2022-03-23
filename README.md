@@ -1,4 +1,4 @@
-# netflix-index
+# The Netflix Index
 This project is based on The Economist's Big Mac Index but instead of using Big Macs, here I used Netflix Subscription rates (standard) from different countries. 
 
 ## A little economics lesson: Purchasing-power parity and the Big Mac Index
@@ -11,7 +11,7 @@ Why did they choose to use the Big Mac as comparison? Because the Big Mac is ava
 
 
 ## What is the objective behind this project?
-Since this is my first project, I wanted to keep it simple, but engaging. I decided to do some simple data manipulation using R and use Tableau to present my findings. I chose to use Tableau because of it's interactive dashboard that presents my findings in a visually appealing and fun way. 
+Since this is my first project, I wanted to keep it simple, but engaging. The focus here is how I present data in an interactive way with Tableau. I did very simple data manipulation using R on the side. I chose to use Tableau because of it's interactive dashboard that presents my findings in a visually appealing and fun way. 
 
 ## What did I learn?
 Through this project, I learned how to clean, validate and manipulate data using R and make interactive Tableau dashboards. 
@@ -22,3 +22,4 @@ Some limitations include:
 - Data is not dynamic. It is from December 2021.
 
 ## Citations: 
+****** soon ********
