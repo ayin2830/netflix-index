@@ -1,2 +1,2 @@
-Please view the Tableau dashboard here: 
+Please view the Tableau dashboard for the Netflix Index here: 
 https://public.tableau.com/app/profile/amadea.yinata2343/viz/NetflixIndexProject/Dashboard8?publish=yes
