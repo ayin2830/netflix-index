@@ -22,7 +22,7 @@ View(nf_index)
 one_year_us =  (13.99 * 12)/(combined_ds$Cpm_standard)
 
 combined_ds <- combined_ds %>% 
-  mutate(netflix_index = nf_index*100,one_year_us = for_100)
+  mutate(netflix_index = nf_index*100,for_oneyear_usd = one_year_us)
 
 
 
